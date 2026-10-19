@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WakeMaster</string>
+    <string name="device_admin_label">מנהל מכשיר WakeMaster</string>
+    <string name="device_admin_description">מאפשר נעילת משימה והגנה מפני הסרה במכשירים מנוהלים עבור שעון מעורר שלא ניתן להשתיק ללא ביצוע משימה</string>
+    <string name="alarm_channel_name">שעונים מעוררים WakeMaster</string>
+    <string name="alarm_channel_description">התראות לשעון מעורר עם משימות השכמה פעילות</string>
+    <string name="alarm_notification_title">WakeMaster מצלצל!</string>
+    <string name="alarm_notification_text">הקש כדי לפתוח את משימת ההשכמה</string>
+</resources>

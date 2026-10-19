@@ -1,0 +1,6 @@
+{
+  "name": "WakeMaster",
+  "description": "שעון מעורר מתקדם ועוצמתי עם משימות השכמה אינטראקטיביות, מצב נעילת משימה וניהול מתקדם",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
